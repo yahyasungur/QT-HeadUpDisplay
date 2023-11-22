@@ -2,6 +2,8 @@
 
 This is a sample Head-Up Display (HUD) project developed using QT and QML.
 
+https://github.com/yahyasungur/QT-HeadUpDisplay/assets/57198059/f4f292bb-4205-468b-804a-0a521c993ae3
+
 ## Technologies Used
 
 - QT: A free and open-source widget toolkit for creating graphical user interfaces.
