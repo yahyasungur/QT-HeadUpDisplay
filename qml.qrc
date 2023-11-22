@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/Ladder.qml</file>
+        <file>ui/AimCursor.qml</file>
+        <file>ui/AirspeedScale.qml</file>
+        <file>ui/AltitudeScale.qml</file>
+        <file>ui/HeadingScale.qml</file>
+        <file>ui/GMeter.qml</file>
+        <file>ui/Compass.qml</file>
+        <file>ui/assets/Teko-Bold.ttf</file>
+        <file>ui/assets/Teko-Light.ttf</file>
+        <file>ui/assets/Teko-Medium.ttf</file>
+        <file>ui/assets/Teko-Regular.ttf</file>
+        <file>ui/assets/Teko-SemiBold.ttf</file>
+        <file>ui/AppleCompass.qml</file>
+        <file>ui/AppleCompassStyle.qml</file>
+        <file>ui/InformationComponent.qml</file>
+    </qresource>
+</RCC>

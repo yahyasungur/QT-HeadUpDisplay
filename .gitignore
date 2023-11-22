@@ -22,7 +22,7 @@
 # Qt-specific files
 *.moc
 *.rcc
-*.qrc
+# *.qrc
 *.qmlc
 
 # Generated files
