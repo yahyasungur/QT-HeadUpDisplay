@@ -1,0 +1,34 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Qt-specific files
+*.moc
+*.rcc
+*.qrc
+*.qmlc
+
+# Generated files
+Makefile
+qmake.conf
+qmake.cache
+qmake.pri
+qmake.pro.user
+qmake.pro.user.*
