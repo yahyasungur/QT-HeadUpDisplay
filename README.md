@@ -24,7 +24,7 @@ $ cd QT-HeadUpDisplay
 # Open .pro file
 - open HeadUpDisplaySample.pro
 
-# Install dependencies
+# Compile
 $ qmake
 
 # Run the app
